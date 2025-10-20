@@ -9,8 +9,8 @@
 🌱 &nbsp;Estoy enfocado en aprender más sobre desarrollo web, arquitecturas modernas y diseño de sistemas.\
 ✍️ &nbsp;En mi tiempo libre me gusta aprender cosas nuevas, diseñar y trabajar en proyectos personales.\
 💬 &nbsp;Puedes contactarme para colaborar en proyectos o simplemente para charlar sobre tecnología.\
-✉️ &nbsp;Puedes escribirme a **[tu-correo@ejemplo.com]** y responderé lo antes posible.\
-📄 &nbsp;Echa un vistazo a mi [Currículum](#) para más detalles sobre mí. ¡Estoy abierto a sugerencias y oportunidades!
+✉️ &nbsp;Puedes escribirme a **al222111490@gmail.com** y responderé lo antes posible.\
+📄 &nbsp;Echa un vistazo a mi [Currículum](https://drive.google.com/file/d/12ACBblNSzFUAM_yZlwKzDCg7yBzufjtO/view?usp=sharing) para más detalles sobre mí. ¡Estoy abierto a sugerencias y oportunidades!
 
 <img alt="Programando de noche" src="https://raw.githubusercontent.com/JuanDODP/JuanDODP/main/assets/Night-Coding.gif" align="right"/>
 
