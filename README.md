@@ -1,5 +1,3 @@
-
-
 <img alt="Saludo" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>¡Hola! Soy Juan Domínguez</h2>
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
@@ -10,13 +8,11 @@
 ✍️ &nbsp;En mi tiempo libre me gusta aprender cosas nuevas, diseñar y trabajar en proyectos personales.\
 💬 &nbsp;Puedes contactarme para colaborar en proyectos o simplemente para charlar sobre tecnología.\
 ✉️ &nbsp;Puedes escribirme a **al222111490@gmail.com** y responderé lo antes posible.\
-📄 &nbsp;Echa un vistazo a mi [Currículum]([https://drive.google.com/file/d/12ACBblNSzFUAM_yZlwKzDCg7yBzufjtO/view?usp=sharing](https://drive.google.com/file/d/1D4JvNI6IAoomTsdgwPoJT2ifIQdIVeco/view?usp=sharing)) para más detalles sobre mí. ¡Estoy abierto a sugerencias y oportunidades!
+📄 &nbsp;Echa un vistazo a mi [Currículum](https://drive.google.com/file/d/1D4JvNI6IAoomTsdgwPoJT2ifIQdIVeco/view?usp=sharing) para más detalles sobre mí. ¡Estoy abierto a sugerencias y oportunidades!
 
 <img alt="Programando de noche" src="https://raw.githubusercontent.com/JuanDODP/JuanDODP/main/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Stack Tecnológico
-
-
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
@@ -42,8 +38,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 
-
-
 ### ⚙️ &nbsp;Estadísticas de GitHub
 
 <p align="center">
@@ -59,8 +53,7 @@
 <a href="https://github.com/JuanDODP"><img src="https://img.shields.io/badge/-JuanDODP-3423A6?style=flat&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:al222111490@gmail.com"><img src="https://img.shields.io/badge/-Correo%20Electrónico-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="[https://instagram.com/](https://www.instagram.com/juan_dominguezc.2080/)"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/juan_dominguezc.2080/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 -----
-
