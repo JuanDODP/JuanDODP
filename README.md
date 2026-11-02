@@ -1,7 +1,7 @@
 <img alt="Saludo" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>¡Hola! Soy Juan Domínguez</h2>
 
 <p align="left">
-  <b>🚀 Desarrollador Fullstack & DevOps | ☁️ AWS · 🐳 Docker · 🔄 CI/CD · ⚛️ React · 🟢 Node.js · 🐈 NestJS · 🐘 PostgreSQL</b>
+  <b>🚀 Desarrollador Fullstack | ☁️ AWS · 🏗️ Terraform · ⚙️ Ansible · 🐳 Docker · ☸️ Kubernetes · 🔁 Argo CD · ⚛️ React · 🐈 NestJS · 🐘 PostgreSQL</b>
 </p>
 
 <p align="left">
@@ -14,7 +14,7 @@
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
 💡 &nbsp;Desarrollador Fullstack con cerca de **3 años** construyendo y escalando productos en producción, de **fintech** a **EdTech**.\
-☁️ &nbsp;Me especializo en llevar software del código a la nube: **arquitecturas en AWS**, **contenedores con Docker** y **pipelines de CI/CD con despliegues zero-downtime**.\
+☁️ &nbsp;Me especializo en llevar software del código a la nube: **arquitecturas de alta disponibilidad en AWS**, **infraestructura como código con Terraform y Ansible**, **contenedores con Docker, ECS y Kubernetes** y **CI/CD + GitOps con GitHub Actions y Argo CD**.\
 ⚡ &nbsp;Reduje **93% la latencia p95** de un sistema en producción (2.4s → 180ms) optimizando el modelado de datos en PostgreSQL.\
 📱 &nbsp;He publicado **3 apps móviles** multiplataforma en Google Play, App Store y App Gallery, de la arquitectura al release.\
 🛒 &nbsp;Actualmente desarrollo **SysRanchito**, un SaaS de punto de venta con microservicios, GraphQL, WebSockets y CI/CD zero-downtime en AWS.\
@@ -26,26 +26,66 @@
 
 <img alt="Programando de noche" src="https://raw.githubusercontent.com/JuanDODP/JuanDODP/main/assets/Night-Coding.gif" align="right"/>
 
-### ☁️ &nbsp;Cloud & DevOps
+### ☁️ &nbsp;Amazon Web Services (AWS)
 
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws&logoColor=FF9900)&nbsp;
+**🖥️ Cómputo y contenedores**\
 ![EC2](https://img.shields.io/badge/-EC2-05122A?style=flat&logo=amazonec2&logoColor=FF9900)&nbsp;
-![S3](https://img.shields.io/badge/-S3-05122A?style=flat&logo=amazons3&logoColor=569A31)&nbsp;
-![RDS](https://img.shields.io/badge/-RDS-05122A?style=flat&logo=amazonrds&logoColor=527FFF)&nbsp;
+![ECS](https://img.shields.io/badge/-ECS-05122A?style=flat&logo=amazonecs&logoColor=FF9900)&nbsp;
+![ECR](https://img.shields.io/badge/-ECR-05122A?style=flat&logo=amazonaws&logoColor=FF9900)&nbsp;
 ![Lambda](https://img.shields.io/badge/-Lambda-05122A?style=flat&logo=awslambda&logoColor=FF9900)&nbsp;
+![Auto Scaling](https://img.shields.io/badge/-Auto%20Scaling-05122A?style=flat&logo=amazonaws&logoColor=FF9900)&nbsp;
+![Amplify](https://img.shields.io/badge/-Amplify-05122A?style=flat&logo=awsamplify&logoColor=FF9900)
+
+**🌐 Redes y entrega**\
+![VPC](https://img.shields.io/badge/-VPC-05122A?style=flat&logo=amazonaws&logoColor=8C4FFF)&nbsp;
+![ALB](https://img.shields.io/badge/-Application%20Load%20Balancer-05122A?style=flat&logo=awselasticloadbalancing&logoColor=8C4FFF)&nbsp;
+![NLB](https://img.shields.io/badge/-Network%20Load%20Balancer-05122A?style=flat&logo=awselasticloadbalancing&logoColor=8C4FFF)&nbsp;
+![Elastic IP](https://img.shields.io/badge/-Elastic%20IP-05122A?style=flat&logo=amazonaws&logoColor=8C4FFF)&nbsp;
+![CloudFront](https://img.shields.io/badge/-CloudFront-05122A?style=flat&logo=amazoncloudfront&logoColor=8C4FFF)&nbsp;
+![Route 53](https://img.shields.io/badge/-Route%2053-05122A?style=flat&logo=amazonroute53&logoColor=8C4FFF)
+
+**🗄️ Datos y almacenamiento**\
+![RDS](https://img.shields.io/badge/-RDS%20PostgreSQL-05122A?style=flat&logo=amazonrds&logoColor=527FFF)&nbsp;
+![ElastiCache](https://img.shields.io/badge/-ElastiCache%20Redis-05122A?style=flat&logo=amazonelasticache&logoColor=C925D1)&nbsp;
+![S3](https://img.shields.io/badge/-S3-05122A?style=flat&logo=amazons3&logoColor=569A31)
+
+**🔐 Seguridad y monitoreo**\
+![IAM](https://img.shields.io/badge/-IAM%20%2F%20SSO-05122A?style=flat&logo=amazoniam&logoColor=DD344C)&nbsp;
+![ACM](https://img.shields.io/badge/-Certificate%20Manager-05122A?style=flat&logo=amazonaws&logoColor=DD344C)&nbsp;
+![Security Groups](https://img.shields.io/badge/-Security%20Groups-05122A?style=flat&logo=amazonaws&logoColor=DD344C)&nbsp;
 ![CloudWatch](https://img.shields.io/badge/-CloudWatch-05122A?style=flat&logo=amazoncloudwatch&logoColor=FF4F8B)&nbsp;
-![CloudFront](https://img.shields.io/badge/-CloudFront-05122A?style=flat&logo=amazonaws&logoColor=8C4FFF)&nbsp;
-![Amplify](https://img.shields.io/badge/-Amplify-05122A?style=flat&logo=awsamplify&logoColor=FF9900)\
+![AWS CLI](https://img.shields.io/badge/-AWS%20CLI-05122A?style=flat&logo=amazonaws&logoColor=FF9900)
+
+### 🛠️ &nbsp;DevOps & Infraestructura
+
+**🏗️ Infraestructura como Código y configuración**\
+![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform&logoColor=844FBA)&nbsp;
+![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible&logoColor=EE0000)
+
+**🐳 Contenedores y orquestación**\
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
+![Docker Hub](https://img.shields.io/badge/-Docker%20Hub-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes&logoColor=326CE5)
+
+**🔄 CI/CD y GitOps**\
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions&logoColor=2088FF)&nbsp;
+![Argo CD](https://img.shields.io/badge/-Argo%20CD-05122A?style=flat&logo=argo&logoColor=EF7B4D)&nbsp;
 ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-05122A?style=flat&logo=gitlab&logoColor=FC6D26)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins&logoColor=D24939)&nbsp;
-![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx&logoColor=009639)&nbsp;
-![Let's Encrypt](https://img.shields.io/badge/-Certbot%20%2F%20TLS-05122A?style=flat&logo=letsencrypt&logoColor=FFFFFF)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=FCC624)
+![SonarQube](https://img.shields.io/badge/-SonarQube-05122A?style=flat&logo=sonarqube&logoColor=4E9BCD)
 
-> 🔄 **CI/CD zero-downtime** · 🐳 **Docker multi-stage** · 🏗️ **Alta disponibilidad en AWS** · 📊 **Monitoreo con CloudWatch** · 🔐 **TLS / Nginx reverse proxy**
+**🖥️ Servidores, redes y seguridad**\
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=FCC624)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=E95420)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash&logoColor=4EAA25)&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx&logoColor=009639)&nbsp;
+![PM2](https://img.shields.io/badge/-PM2-05122A?style=flat&logo=pm2&logoColor=2B037A)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis&logoColor=DC382D)&nbsp;
+![Let's Encrypt](https://img.shields.io/badge/-Let's%20Encrypt%20%2F%20Certbot-05122A?style=flat&logo=letsencrypt&logoColor=FFFFFF)&nbsp;
+![UFW](https://img.shields.io/badge/-UFW%20%2B%20Fail2ban-05122A?style=flat&logo=linux&logoColor=FCC624)
+
+> 🏗️ **IaC con Terraform + Ansible** · 🔁 **GitOps con Argo CD** · ⚖️ **Balanceo NLB → ALB → multi-EC2** · 🔄 **CI/CD zero-downtime con rolling deploys** · 🐳 **Docker multi-stage** · 📊 **Monitoreo con CloudWatch** · 🔐 **TLS, hardening de servidores y mínimo privilegio en IAM**
 
 ### ⚛️ &nbsp;Frontend & Mobile
 
@@ -97,8 +137,7 @@
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest&logoColor=C21325)&nbsp;
 ![Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-05122A?style=flat&logo=testinglibrary)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)&nbsp;
-![Supertest](https://img.shields.io/badge/-Supertest-05122A?style=flat&logo=node.js)&nbsp;
-![SonarQube](https://img.shields.io/badge/-SonarQube-05122A?style=flat&logo=sonarqube&logoColor=4E9BCD)
+![Supertest](https://img.shields.io/badge/-Supertest-05122A?style=flat&logo=node.js)
 
 ### 🧰 &nbsp;Herramientas & Metodologías
 
@@ -127,6 +166,7 @@
 SaaS de **Punto de Venta (POS)** fullstack, en desarrollo activo — 🌐 [Ver portafolio](https://main.d3bct93nabr1er.amplifyapp.com)
 
 - ☁️ &nbsp;Despliegue **zero-downtime** en **AWS** (EC2, RDS, S3, CloudWatch) con **CI/CD en GitHub Actions** — cero pérdida de datos en 3 meses.
+- 🏗️ &nbsp;Infraestructura **multi-servidor 100% como código**: **Terraform** crea la red, los Security Groups, 3 EC2, un **NLB con IP elástica → ALB**, **RDS**, **ElastiCache Redis** y **ACM**; **Ansible** configura los servidores (Docker, Nginx con WebSockets, UFW, Fail2ban) y despliega servidor por servidor con health checks.
 - ⚡ &nbsp;**-93% latencia p95** en consultas analíticas (2.4s → 180ms) con índices compuestos y window functions en PostgreSQL.
 - 🔌 &nbsp;Tiempo real para **200+ conexiones concurrentes** con WebSockets sobre NestJS.
 - 📦 &nbsp;**-40% peso del bundle** y LCP < 2.5s con code splitting en React/TypeScript.
